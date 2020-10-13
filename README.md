@@ -1,6 +1,6 @@
-# README
+# [GLITZED.ME](https://glitzed-me.herokuapp.com/)
 
-Steps to set up:
+## Setup
 
 1. Clone this repository by opening terminal and typing `git clone https://github.com/iarobinson/glitzed_me.git` in your terminal
 2. Change directory into the folder by typing `cd glitzed_me` in your terminal
@@ -10,3 +10,8 @@ Steps to set up:
 6. Visit your _Glitzed Me_ server by going to your web browser (Google Chrome, Safari, Brave... whatever) and entering `http://localhost:3000/`
 
 Thats a start!
+
+
+## What This Application Does
+
+....to be discussed....
